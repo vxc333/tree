@@ -140,3 +140,7 @@ module.exports = class BinarySearchTree {
     return node;
   }
 };
+
+
+// 
+const printNode = (value)=> console.log(value)
